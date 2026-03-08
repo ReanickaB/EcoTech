@@ -27,8 +27,4 @@ My vision is to collect environmental data from my local community and use it to
 | MicroSD card | Stores environmental data |
 | 3D printed tree enclosure | Animal Crossing housing |
 
-# Demo Video
-[Watch here](paste your youtube link)
-
-# Firmware
-Coming soon!
+I made two different types one for weekly data testing which is my prototype, and then the other for upgrading my project which is the makerspace one which is to make my environmental monitor as small as possible as a badge.
