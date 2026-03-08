@@ -4,17 +4,28 @@ A wearable Arduino environmental monitor compacted in a 3D printed Animal Crossi
 # The Vision
 My vision is to collect environmental data from my local community and use it to actively fix problems. For example, using soil health readings to automate a nutrient dispensing sprinkler system.
 
-# Bill of Materials (Home)
-Seeed Arduino Uno Beginner Kit - that includes the air quality sensor, temperature and humidity sensor, OLED screen, LEDs and a cardboard enclosure.
+## Prototype Bill of Materials (Home)
 
-# Bill of Materials (Makerspace)
-Raspberry Pi Pico,
-LiPo battery,
-BME680 all-in-one environmental sensor,
-Capacitive Soil Moisture Sensor v1.2 (Considering),
-NeoPixel LED,
-MicroSD card and 
-3D printed tree enclosure.
+| Part | Purpose |
+|------|---------|
+| Seeed Arduino Uno | Brain of EcoTech |
+| Air quality sensor | Measures air quality |
+| DHT11 sensor | Temperature & humidity |
+| OLED screen | Displays live readings |
+| LEDs x3 (pink, yellow, red) | Colour warning system |
+| Cardboard | Enclosure |
+
+## Final Version Bill of Materials (Makerspace)
+
+| Part | Purpose |
+|------|---------|
+| Raspberry Pi Pico | Brain (smaller & powerful) |
+| LiPo battery | Wireless power |
+| BME680 sensor | Air quality, temp & humidity |
+| Capacitive Soil Moisture Sensor v1.2 | Soil health readings |
+| NeoPixel LED | Colour warning system |
+| MicroSD card | Stores environmental data |
+| 3D printed tree enclosure | Animal Crossing housing |
 
 # Demo Video
 [Watch here](paste your youtube link)
