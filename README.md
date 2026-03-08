@@ -16,5 +16,8 @@ NeoPixel LED,
 MicroSD card and 
 3D printed tree enclosure.
 
+# Demo Video
+[Watch here](paste your youtube link)
+
 # Firmware
 Coming soon!
